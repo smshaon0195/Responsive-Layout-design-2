@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.list-text{
+    color:rgba(0, 0, 0, 0.5);
+   
+}
+.colops-image-container img{
+    border-radius: 10px;
+}
